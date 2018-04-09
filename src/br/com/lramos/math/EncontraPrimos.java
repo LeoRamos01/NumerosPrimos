@@ -1,3 +1,4 @@
+package br.com.lramos.math;
 import java.math.BigDecimal;
 import java.util.AbstractMap.SimpleEntry;
 import java.util.ArrayList;
